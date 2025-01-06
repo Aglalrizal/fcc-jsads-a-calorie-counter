@@ -22,4 +22,4 @@ Jika Anda ingin mencoba membuat proyek serupa, silakan kunjungi [FreeCodeCamp](h
 ## 🚀 Cara Menjalankan Proyek
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/aglalrizal/fcc-jsads-a-music-player.git
+   git clone https://github.com/aglalrizal/fcc-jsads-a-calorie-counter.git
